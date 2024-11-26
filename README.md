@@ -1,4 +1,4 @@
-# tittle - pending
+# Predicting customer churn
 
 ## Introduction
 
