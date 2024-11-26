@@ -84,7 +84,3 @@ XGBoost was selected as the best model due to its high-test accuracy and excelle
 ## Conclusion
 
 The XGBoost model demonstrated excellent predictive performance, making it the best choice for identifying customers at risk of churn. This model can significantly aid in proactive customer retention strategies, ultimately enhancing customer loyalty and reducing churn.
-
----
-
-This README.md provides a comprehensive overview of the dataset, objectives, problem understanding, data preparation methods, and model evaluation, making it an attractive and informative document for interview purposes.
